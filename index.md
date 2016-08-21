@@ -9,7 +9,7 @@ I am a DPhil student in the Computational Cardiovascular Science Group at the Un
 
 **Publications**
 
-**McCarthy, Adam**, Ben Smyth, and Elizabeth A. Quaglia. "Hawk and Aucitas: e-auction schemes from the Helios and Civitas e-voting schemes." International Conference on Financial Cryptography and Data Security. Springer Berlin Heidelberg, 2014.
+McCarthy, Adam, Ben Smyth, and Elizabeth A. Quaglia. *"Hawk and Aucitas: e-auction schemes from the Helios and Civitas e-voting schemes"* International Conference on Financial Cryptography and Data Security. Springer Berlin Heidelberg, 2014.
 
 **Theses**
 
