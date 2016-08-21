@@ -21,10 +21,9 @@ McCarthy, Adam, Ben Smyth, and Elizabeth A. Quaglia. *"Hawk and Aucitas: e-aucti
 
 ## Theses
 
-* An Evaluation of Sliding Window and Recurrent Predictors for the Classification of ICU Time Series
-    * MSc Dissertation, University of Edinburgh, 2016
+An Evaluation of Sliding Window and Recurrent Predictors for the Classification of ICU Time Series
+*MSc Dissertation, University of Edinburgh, 2016*
 
-* Reinforcemnt Learning in Continuous State and Action Spaces
-	* BSc Dissertation, University of Birmingham, 2009
+Reinforcemnt Learning in Continuous State and Action Spaces *BSc Dissertation, University of Birmingham, 2009*
 
 
