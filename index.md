@@ -5,8 +5,17 @@ title: Adam McCarthy
 
 Hello.
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+I am a DPhil student in the Computational Cardiovascular Science Group at the University of Oxford, supervised by Blanca Rodriguez and Nando de Freitas. My research uses computational techniques such as machine learning and multiscale modelling to extract information from cardiovascular data. Previously I was an MSc student at the University of Edinburgh supervised by Chris Williams, an MBBS student at King's College London and a BSc student at the University of Birmingham, supervised by Jeremy Wyatt.
 
-**Just write thing that matters..**
+#Publications
+**McCarthy, Adam**, Ben Smyth, and Elizabeth A. Quaglia. "Hawk and Aucitas: e-auction schemes from the Helios and Civitas e-voting schemes." International Conference on Financial Cryptography and Data Security. Springer Berlin Heidelberg, 2014.
 
-Enjoy!
+#Theses
+
+* An Evaluation of Sliding Window and Recurrent Predictors for the Classification of ICU Time Series
+    * MSc Dissertation, University of Edinburgh, 2016
+
+* Reinforcemnt Learning in Continuous State and Action Spaces
+	* BSc Dissertation, University of Birmingham, 2009
+
+
