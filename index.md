@@ -5,7 +5,7 @@ title: Adam McCarthy
 
 Hello.
 
-I am a DPhil student in the Computational Cardiovascular Science Group at the University of Oxford, supervised by Blanca Rodriguez and Nando de Freitas. My research uses computational techniques such as machine learning and multiscale modelling to extract information from cardiovascular data.
+I am a DPhil student in the Computational Cardiovascular Science Group at the University of Oxford, supervised by Blanca Rodriguez and Nando de Freitas. I am interested in extracting information from cardiovascular data using computational techniques such as machine learning and multiscale modelling.
 
 Previously I was an MSc student at the University of Edinburgh supervised by Chris Williams, an MBBS student at King's College London, and a BSc student at the University of Birmingham supervised by Jeremy Wyatt. I was an intern researcher in the Prosecco group at INRIA in 2013, supervised by Ben Smyth.
 
