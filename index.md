@@ -7,7 +7,7 @@ Hello.
 
 I am a DPhil student in the [Computational Cardiovascular Science Group](http://www.cs.ox.ac.uk/ccs/home/) at the University of Oxford, supervised by [Blanca Rodriguez](http://www.cs.ox.ac.uk/people/blanca.rodriguez/) and [Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/). I am interested in extracting information from cardiovascular data using computational techniques such as machine learning and multiscale modelling.
 
-Previously I was an MSc student at the University of Edinburgh supervised by [Chris Williams](http://homepages.inf.ed.ac.uk/ckiw/), an MBBS student at King's College London, and a BSc student at the University of Birmingham supervised by [Jeremy Wyatt](http://www.cs.bham.ac.uk/~jlw/). I was an intern researcher in the Prosecco group at INRIA in 2013, supervised by [Ben Smyth](https://www.bensmyth.com/).
+Previously I was an MSc student at the University of Edinburgh supervised by [Chris Williams](http://homepages.inf.ed.ac.uk/ckiw/), an MBBS student at King's College London, and a BSc student at the University of Birmingham supervised by [Jeremy Wyatt](http://www.cs.bham.ac.uk/~jlw/). I was an intern researcher in the Prosecco group at INRIA in 2013, supervised by [Ben Smyth](https://www.bensmyth.com/) and [Elizabeth Quaglia](https://lizquaglia.wordpress.com/).
 
 I have worked in industry as a Lead Software Engineer at a bank and at VideoLAN, Director of Technology for a security company in Dubai and a System Management Specialist for a healthcare IT company.
 
