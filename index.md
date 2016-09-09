@@ -15,7 +15,7 @@ I have worked in industry as a Lead Software Engineer at a bank and at VideoLAN,
 
 ## Publications
 
-Adam McCarthy, Ben Smyth, and Elizabeth A. Quaglia. [*"Hawk and Aucitas: e-auction schemes from the Helios and Civitas e-voting schemes"*\(Smyth14-Hawk-and-Aucitas-auction-schemes.pdf) International Conference on Financial Cryptography and Data Security. 2014.
+Adam McCarthy, Ben Smyth, and Elizabeth A. Quaglia. [*"Hawk and Aucitas: e-auction schemes from the Helios and Civitas e-voting schemes"*](Smyth14-Hawk-and-Aucitas-auction-schemes.pdf) International Conference on Financial Cryptography and Data Security. 2014.
 
 <div class="divider"></div>
 
