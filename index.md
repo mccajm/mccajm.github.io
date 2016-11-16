@@ -15,7 +15,7 @@ I have worked in industry as a Lead Software Engineer at a bank and at VideoLAN,
 
 ## Publications
 
-Adam McCarthy and Chris K.I. Williams. "*Predicting Patient State-of-Health using Sliding Window and Recurrent Classifiers*" Machine Learning for Health Workshop, Advances in Neural Information Processing. 2016.
+Adam McCarthy and Chris K.I. Williams. "*Predicting Patient State-of-Health using Sliding Window and Recurrent Classifiers*" Machine Learning for Health Workshop, Neural Information Processing Systems. 2016.
 
 Adam McCarthy, Ben Smyth, and Elizabeth A. Quaglia. [*"Hawk and Aucitas: e-auction schemes from the Helios and Civitas e-voting schemes"*](/files/Smyth14-Hawk-and-Aucitas-auction-schemes.pdf) International Conference on Financial Cryptography and Data Security. 2014.
 
