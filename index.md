@@ -15,7 +15,7 @@ I have worked in industry as a Lead Software Engineer at a bank and at VideoLAN,
 
 ## Publications
 
-Adam McCarthy and Christopher K.I. Williams. [*"Predicting Patient State-of-Health using Sliding Window and Recurrent Classifiers"*](/files/ml4hc-final-20161201.pdf) Machine Learning for Health Workshop, NIPS. 2016. [(Poster)](/files/ml4hc-poster-final-20161201.pdf)
+Adam McCarthy and Christopher K.I. Williams. [*"Predicting Patient State-of-Health using Sliding Window and Recurrent Classifiers"*](/files/ml4hc-final-20161201.pdf) Machine Learning for Health Workshop, NIPS. 2016. ([Poster](/files/ml4hc-poster-final-20161201.pdf))
 
 Adam McCarthy, Ben Smyth, and Elizabeth A. Quaglia. [*"Hawk and Aucitas: e-auction schemes from the Helios and Civitas e-voting schemes"*](/files/Smyth14-Hawk-and-Aucitas-auction-schemes.pdf) International Conference on Financial Cryptography and Data Security. 2014.
 
