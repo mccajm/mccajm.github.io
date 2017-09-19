@@ -5,7 +5,7 @@ title: Adam McCarthy
 
 Hello.
 
-I am a DPhil student in the [Computational Cardiovascular Science Group](http://www.cs.ox.ac.uk/ccs/home/) at the University of Oxford, supervised by [Blanca Rodriguez](http://www.cs.ox.ac.uk/people/blanca.rodriguez/) and [Ana Michole](https://www.cs.ox.ac.uk/people/ana.minchole/), and briefly by [Nando de Freitas](http://www.cs.ox.ac.uk/people/nando.defreitas/). I am interested in extracting information from cardiovascular data using computational techniques such as machine learning and multiscale modelling. I was a Visiting Scientist at the [MGH & BWH Center for Clinical Data Science](https://clindatsci.com/) in 2017.
+I am a DPhil student in the [Computational Cardiovascular Science Group](http://www.cs.ox.ac.uk/ccs/home/) at the University of Oxford, supervised by [Blanca Rodriguez](http://www.cs.ox.ac.uk/people/blanca.rodriguez/) and [Ana Michole](https://www.cs.ox.ac.uk/people/ana.minchole/), and initially by [Nando de Freitas](http://www.cs.ox.ac.uk/people/nando.defreitas/). I am interested in extracting information from cardiovascular data using computational techniques such as machine learning and multiscale modelling. I was a Visiting Scientist at the [MGH & BWH Center for Clinical Data Science](https://clindatsci.com/) in 2017.
 
 Previously I studied Machine Learning at the University of Edinburgh supervised by [Chris Williams](http://homepages.inf.ed.ac.uk/ckiw/), Medicine at King's College London, and Computer Science at the University of Birmingham supervised by [Jeremy Wyatt](http://www.cs.bham.ac.uk/~jlw/). I was an intern researcher at INRIA in 2013, supervised by [Ben Smyth](https://www.bensmyth.com/) and [Elizabeth Quaglia](https://lizquaglia.wordpress.com/).
 
