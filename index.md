@@ -9,7 +9,7 @@ I am a DPhil student in the [Computational Cardiovascular Science Group](http://
 
 Previously I studied Machine Learning at the University of Edinburgh supervised by [Chris Williams](http://homepages.inf.ed.ac.uk/ckiw/), Medicine at King's College London, and Computer Science at the University of Birmingham supervised by [Jeremy Wyatt](http://www.cs.bham.ac.uk/~jlw/). I was an intern researcher at INRIA in 2013, supervised by [Ben Smyth](https://www.bensmyth.com/) and [Elizabeth Quaglia](https://lizquaglia.wordpress.com/).
 
-I have worked in industry as a Lead Software Engineer at a bank and at VideoLAN, Director of Technology for a security company in Dubai, and a System Management Specialist for a healthcare IT company.
+I have worked in industry as a Lead Software Engineer at a bank and at VideoLAN, Director of Technology for a cyber security company in Dubai, and a System Management Specialist for a healthcare IT company.
 
 <div class="divider"></div>
 
