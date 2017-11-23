@@ -15,7 +15,7 @@ I have worked in industry as a Lead Software Engineer at a bank and at VideoLAN,
 
 ## Publications
 
-Adam McCarthy, Blanca Rodriguez, and Ana Minchol&eacute;. *"Variational Inference over Non-differentiable Simulators using Bayesian Optimization"* Machine Learning for Health Workshop + Deep Learning for Physical Sciences Workshop, NIPS. 2017.
+Adam McCarthy, Blanca Rodriguez, and Ana Minchol&eacute;. *"Variational Inference over Non-differentiable Simulators using Bayesian Optimization"* ML4H+DLPS Workshops, NIPS. 2017.
 
 Adam McCarthy and Christopher K.I. Williams. [*"Predicting Patient State-of-Health using Sliding Window and Recurrent Classifiers"*](/files/ml4hc-final-20161201.pdf) Machine Learning for Health Workshop, NIPS. 2016. ([Poster](/files/ml4hc-poster-final-20161201.pdf))
 
