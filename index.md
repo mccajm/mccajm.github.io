@@ -31,4 +31,9 @@ An Evaluation of Sliding Window and Recurrent Predictors for the Classification 
 Reinforcement Learning in Continuous State and Action Spaces\\
 *BSc Dissertation, University of Birmingham, 2009*
 
+<div class="divider"></div>
 
+## Whitepapers
+
+[*"Developing Deep-Learning Models in the Hospital:
+A Case Study on the Center for Clinical Data Science"*](https://clindatsci.com/s/whitepaper.pdf). Partners Healthcare/NVIDIA. 2017
