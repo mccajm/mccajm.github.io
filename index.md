@@ -36,4 +36,4 @@ Reinforcement Learning in Continuous State and Action Spaces\\
 ## Whitepapers
 
 [*"Developing Deep-Learning Models in the Hospital:
-A Case Study on the Center for Clinical Data Science"*](https://clindatsci.com/s/whitepaper.pdf). Partners Healthcare/NVIDIA. 2017
+A Case Study on the Center for Clinical Data Science"*](/files/whitepaper.pdf). Partners Healthcare/NVIDIA. 2017
