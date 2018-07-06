@@ -9,11 +9,11 @@ I am interested in extracting information from healthcare data using computation
 
 
 
-#I am a DPhil student in the [Computational Cardiovascular Science Group](http://www.cs.ox.ac.uk/ccs/home/) at the University of Oxford, supervised by [Blanca Rodriguez](http://www.cs.ox.ac.uk/people/blanca.rodriguez/) and [Ana Michol&eacute;](https://www.cs.ox.ac.uk/people/ana.minchole/), and initially by [Nando de Freitas](http://www.cs.ox.ac.uk/people/nando.defreitas/). I am interested in extracting information from cardiovascular data 
+<!--- I am a DPhil student in the [Computational Cardiovascular Science Group](http://www.cs.ox.ac.uk/ccs/home/) at the University of Oxford, supervised by [Blanca Rodriguez](http://www.cs.ox.ac.uk/people/blanca.rodriguez/) and [Ana Michol&eacute;](https://www.cs.ox.ac.uk/people/ana.minchole/), and initially by [Nando de Freitas](http://www.cs.ox.ac.uk/people/nando.defreitas/). I am interested in extracting information from cardiovascular data -->
 
-#Previously I studied Machine Learning at the University of Edinburgh supervised by [Chris Williams](http://homepages.inf.ed.ac.uk/ckiw/), Medicine at King's College London, and Computer Science at the University of Birmingham supervised by [Jeremy Wyatt](http://www.cs.bham.ac.uk/~jlw/). I was an intern researcher at INRIA in 2013, supervised by [Ben Smyth](https://www.bensmyth.com/) and [Elizabeth Quaglia](https://lizquaglia.wordpress.com/).
+<!--- Previously I studied Machine Learning at the University of Edinburgh supervised by [Chris Williams](http://homepages.inf.ed.ac.uk/ckiw/), Medicine at King's College London, and Computer Science at the University of Birmingham supervised by [Jeremy Wyatt](http://www.cs.bham.ac.uk/~jlw/). I was an intern researcher at INRIA in 2013, supervised by [Ben Smyth](https://www.bensmyth.com/) and [Elizabeth Quaglia](https://lizquaglia.wordpress.com/). -->
 
-#I have worked in industry as a Lead Software Engineer at a bank and at VideoLAN, Director of Technology for a cyber security company in Dubai, and a System Management Specialist for a healthcare IT company.
+<!-- I have worked in industry as a Lead Software Engineer at a bank and at VideoLAN, Director of Technology for a cyber security company in Dubai, and a System Management Specialist for a healthcare IT company. -->
 
 <div class="divider"></div>
 
