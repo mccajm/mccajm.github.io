@@ -19,7 +19,9 @@ Kirti Magudia, Christopher Bridge, Mark Walters, Adam McCarthy, Mark H. Michalsk
 
 Bernardo Bizzo, Christopher Bridge, Stefano Bedemonte, Bradley Wright, Renata R. Almeida, Sean Doyle, Mark Walters, Neil A. Tenenholtz, Adam McCarthy, Stuart Pomerantz, Katherine P. Andriole, Ramon G. Gonzalez, Mark H. Michalski. **"Deep Learning for Acute Ischemic Stroke on Diffusion-Weighted MR Imaging"**, RSNA. 2019.
 
-Julià Camps, Adam McCarthy, Blanca Rodríguez, Ana Mincholé. **"ConvNet based QRS Multilead Delineator in Electrocardiogram Signals"**, AIH+Arial+BOOM, ICJAI. 2018.
+Julià Camps, Adam McCarthy, Blanca Rodrıguez, Ana Minchol&eacute;. **"Deep learning based QRS Multilead Delineator in Electrocardiogram signals**". Biomedical Informatics with Optimization and Machine Learning. 2018.
+
+Julià Camps, Adam McCarthy, Blanca Rodríguez, Ana Minchol&eacute;. **"ConvNet based QRS Multilead Delineator in Electrocardiogram Signals"**, AIH+Arial+BOOM, ICJAI. 2018.
 
 Adam McCarthy, Blanca Rodriguez, and Ana Minchol&eacute;. **"Variational Inference over Non-differentiable Simulators using Bayesian Optimization"** ML4H+DLPS, NIPS. 2017.
 
