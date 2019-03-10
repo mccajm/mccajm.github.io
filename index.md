@@ -22,9 +22,8 @@ Bernardo Bizzo, Christopher Bridge, Stefano Bedemonte, Bradley Wright, Renata R.
 Julià Camps, Adam McCarthy, Blanca Rodríguez, Ana Mincholé. **"ConvNet based QRS Multilead Delineator in Electrocardiogram Signals"**, AIH+Arial+BOOM, ICJAI. 2018.
 
 Adam McCarthy, Blanca Rodriguez, and Ana Minchol&eacute;. **"Variational Inference over Non-differentiable Simulators using Bayesian Optimization"** ML4H+DLPS, NIPS. 2017.
-:
-[**"Developing Deep-Learning Models in the Hospital:
-A Case Study on the Center for Clinical Data Science"**](/files/whitepaper.pdf). Partners Healthcare/NVIDIA. 2017.
+
+[**"Developing Deep-Learning Models in the Hospital: A Case Study on the Center for Clinical Data Science"**](/files/whitepaper.pdf). Partners Healthcare/NVIDIA. 2017.
 
 Adam McCarthy and Christopher K.I. Williams. [**"Predicting Patient State-of-Health using Sliding Window and Recurrent Classifiers"**](/files/ml4hc-final-20161201.pdf) Machine Learning for Health, NIPS. 2016. ([Poster](/files/ml4hc-poster-final-20161201.pdf))
 
