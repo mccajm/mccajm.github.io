@@ -13,11 +13,13 @@ Find me [**@adamajm**](https://twitter.com/adamajm).
 
 <div class="divider"></div>
 
-## Publications
+## Selected Publications
 
 Kirti Magudia, Christopher Bridge, Mark Walters, Adam McCarthy, Mark H. Michalski, Katherine P. Andriole, Michael Rosenthal. **"The trials and tribulations of assembling large datasets for machine learning applications"**, SIIM, 2019.
 
 Bernardo Bizzo, Christopher Bridge, Stefano Bedemonte, Bradley Wright, Renata R. Almeida, Sean Doyle, Mark Walters, Neil A. Tenenholtz, Adam McCarthy, Stuart Pomerantz, Katherine P. Andriole, Ramon G. Gonzalez, Mark H. Michalski. **"Deep Learning for Acute Ischemic Stroke on Diffusion-Weighted MR Imaging"**, RSNA. 2018.
+
+Stefano Pedemonte, Bernardo Bizzo, Stuart R. Pomerantz, Neil Tenenholtz, Brad Wright, Mark Walters, Sean Doyle, Adam McCarthy, Renata R. De Almeida, Katherina P. Andriole, Mark H. Michalski, Ramon G. Gonzalez. **"Detection and Delineation of Acute Cerebral Infarct on DWI using Weakly Supervised Machine Learning."**, MICCAI. 2018.
 
 Julià Camps, Adam McCarthy, Blanca Rodrıguez, Ana Minchol&eacute;. **"Deep learning based QRS Multilead Delineator in Electrocardiogram signals**". Biomedical Informatics with Optimization and Machine Learning. 2018.
 
