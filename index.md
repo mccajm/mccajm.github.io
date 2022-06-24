@@ -7,13 +7,15 @@ Hello.
 
 I am interested in extracting information from healthcare data using computational techniques such as machine learning and multiscale modelling, to improve patient care.
 
-I'm currently EMEA Senior Startup Solutions Architect - Healthcare and Life Sciences at AWS. Previously I was a Director at the [MGH & BWH Center for Clinical Data Science](https://ccds.io/).
+I'm currently EMEA Solutions Architecture Lead - Healthcare and Life Sciences at AWS and a Visiting Scientist at the Wellcome Sanger Institute. Previously I was a Director at the [MGH & BWH Center for Clinical Data Science](https://ccds.io/).
 
 Find me [**@adamajm**](https://twitter.com/adamajm).
 
 <div class="divider"></div>
 
 ## Selected Publications
+
+Holger R Roth et al. **"Federated learning for breast density classification: A real-world implementation"**, Domain adaptation and representation transfer, and distributed and collaborative learning. DART/DCL. 2020.
 
 Kirti Magudia, Christopher Bridge, Mark Walters, Adam McCarthy, Mark H. Michalski, Katherine P. Andriole, Michael Rosenthal. **"The trials and tribulations of assembling large datasets for machine learning applications"**, SIIM, 2019.
 
