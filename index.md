@@ -17,7 +17,7 @@ Find me [**@adamajm**](https://twitter.com/adamajm).
 
 Holger R Roth et al. **"Federated learning for breast density classification: A real-world implementation"**, Domain adaptation and representation transfer, and distributed and collaborative learning. DART/DCL. 2020.
 
-Kirti Magudia, Christopher Bridge, Mark Walters, Adam McCarthy, Mark H. Michalski, Katherine P. Andriole, Michael Rosenthal. **"The trials and tribulations of assembling large datasets for machine learning applications"**, SIIM, 2019.
+Kirti Magudia, Christopher Bridge, Mark Walters, Adam McCarthy, Mark H. Michalski, Katherine P. Andriole, Michael Rosenthal. **"The trials and tribulations of assembling large datasets for machine learning applications"**, SIIM. 2019.
 
 Bernardo Bizzo, Christopher Bridge, Stefano Bedemonte, Bradley Wright, Renata R. Almeida, Sean Doyle, Mark Walters, Neil A. Tenenholtz, Adam McCarthy, Stuart Pomerantz, Katherine P. Andriole, Ramon G. Gonzalez, Mark H. Michalski. **"Deep Learning for Acute Ischemic Stroke on Diffusion-Weighted MR Imaging"**, RSNA. 2018.
 
@@ -29,7 +29,7 @@ Julià Camps, Adam McCarthy, Blanca Rodríguez, Ana Minchol&eacute;. **"ConvNet 
 
 Adam McCarthy, Blanca Rodriguez, and Ana Minchol&eacute;. **"Variational Inference over Non-differentiable Simulators using Bayesian Optimization"** ML4H+DLPS, NIPS. 2017.
 
-[**"Developing Deep-Learning Models in the Hospital: A Case Study on the Center for Clinical Data Science"**](/files/whitepaper.pdf). Partners Healthcare/NVIDIA. 2017.
+[**"Developing Deep-Learning Models in the Hospital: A Case Study on the Center for Clinical Data Science"**](/files/whitepaper.pdf). Partners Healthcare/NVIDIA Whitepaper. 2017.
 
 Adam McCarthy and Christopher K.I. Williams. [**"Predicting Patient State-of-Health using Sliding Window and Recurrent Classifiers"**](/files/ml4hc-final-20161201.pdf) Machine Learning for Health, NIPS. 2016. ([Poster](/files/ml4hc-poster-final-20161201.pdf))
 
