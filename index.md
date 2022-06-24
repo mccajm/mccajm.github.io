@@ -7,7 +7,7 @@ Hello.
 
 I am interested in extracting information from healthcare data using computational techniques such as machine learning and multiscale modelling, to improve patient care.
 
-I'm currently EMEA Solutions Architecture Lead - Healthcare and Life Sciences at AWS and a Visiting Scientist at the Wellcome Sanger Institute. Previously I was a Director at the [MGH & BWH Center for Clinical Data Science](https://ccds.io/).
+I'm currently EMEA Solutions Architecture Lead - Healthcare and Life Sciences Startups at AWS and a Visiting Scientist at the Wellcome Sanger Institute. Previously I was a Director at the [MGH & BWH Center for Clinical Data Science](https://ccds.io/).
 
 Find me [**@adamajm**](https://twitter.com/adamajm).
 
