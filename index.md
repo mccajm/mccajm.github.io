@@ -7,13 +7,16 @@ Hello.
 
 I am interested in extracting information from healthcare data using computational techniques such as machine learning and multiscale modelling, to improve patient care.
 
-I'm currently EMEA Lead - Healthcare and Life Sciences Startups at AWS, a Visiting Scientist at the Wellcome Sanger Institute, and a Voting Member at HL7. Previously I was a Director at the [MGH & BWH Center for Clinical Data Science](https://ccds.io/).
+I'm currently EMEA Lead - Healthcare and Life Sciences Startups at AWS and a Voting Member at HL7. Previously I was a Director at the [MGH & BWH Center for Clinical Data Science](https://ccds.io/).
 
 Find me [**@adamajm**](https://twitter.com/adamajm).
 
 <div class="divider"></div>
 
 ## Selected Publications
+
+Ashray Gunjur, Adam McCarthy, David Adams. **Defining the relationship between the gut microbiome, host factors, and response to
+immune checkpoint inhibitors across diverse rare cancer types**. Microbiome Interactions in Health and Disease. 2022.
 
 Holger R Roth et al. **"Federated learning for breast density classification: A real-world implementation"**. Domain adaptation and representation transfer, and distributed and collaborative learning. DART/DCL. 2020.
 
