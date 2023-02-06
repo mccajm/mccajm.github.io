@@ -20,6 +20,8 @@ immune checkpoint inhibitors across diverse rare cancer types**. Microbiome Inte
 
 Holger R Roth, ..., Adam McCarthy, et al. **"Federated learning for breast density classification: A real-world implementation"**. Domain adaptation and representation transfer, and distributed and collaborative learning. DART/DCL. 2020.
 
+K. Chang, ..., Adam McCarthy, et al. **“Federated Deep Learning Among Multiple Institutions for Automated Classification of Breast Density”**. Society for Imaging Informatics in Medicine. 2020
+
 Kirti Magudia, Christopher Bridge, Mark Walters, Adam McCarthy, Mark H. Michalski, Katherine P. Andriole, Michael Rosenthal. **"The trials and tribulations of assembling large datasets for machine learning applications"**. SIIM. 2019.
 
 Bernardo Bizzo, Christopher Bridge, Stefano Bedemonte, Bradley Wright, Renata R. Almeida, Sean Doyle, Mark Walters, Neil A. Tenenholtz, Adam McCarthy, Stuart Pomerantz, Katherine P. Andriole, Ramon G. Gonzalez, Mark H. Michalski. **"Deep Learning for Acute Ischemic Stroke on Diffusion-Weighted MR Imaging"**. RSNA. 2018.
