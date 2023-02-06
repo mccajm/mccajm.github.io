@@ -18,9 +18,9 @@ Find me [**@adamajm**](https://twitter.com/adamajm).
 Ashray Gunjur, ..., Adam McCarthy, et al. **Defining the relationship between the gut microbiome, host factors, and response to
 immune checkpoint inhibitors across diverse rare cancer types**. Microbiome Interactions in Health and Disease. 2022.
 
-Holger R Roth, ..., Adam McCarthy, et al. **"Federated learning for breast density classification: A real-world implementation"**. Domain adaptation and representation transfer, and distributed and collaborative learning. DART/DCL. 2020.
+Holger R Roth, ..., Adam McCarthy, et al. **Federated learning for breast density classification: A real-world implementation**. DART/DCL. 2020.
 
-K. Chang, ..., Adam McCarthy, et al. **“Federated Deep Learning Among Multiple Institutions for Automated Classification of Breast Density”**. Society for Imaging Informatics in Medicine. 2020
+K. Chang, ..., Adam McCarthy, et al. **Federated Deep Learning Among Multiple Institutions for Automated Classification of Breast Density**. SIIM. 2020
 
 Kirti Magudia, Christopher Bridge, Mark Walters, Adam McCarthy, Mark H. Michalski, Katherine P. Andriole, Michael Rosenthal. **"The trials and tribulations of assembling large datasets for machine learning applications"**. SIIM. 2019.
 
