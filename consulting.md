@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adam McCarthy - Consulting
+title: Consulting
 ---
 
 I have extensive experience working with businesses of all sizes, and offer consultancy in the following areas:
@@ -16,4 +16,4 @@ I have extensive experience working with businesses of all sizes, and offer cons
 - Analytics (including data lakes, IoT, and business intelligence)
 - Training
 
-If you would like to get in touch, please email via myfirstname(at)myfullname.co.uk. Thank you.
+If you would like to get in touch, please email me via myfirstname(at)myfullname.co.uk. Thank you.
