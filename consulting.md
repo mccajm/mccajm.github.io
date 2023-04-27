@@ -14,7 +14,7 @@ I have extensive experience working with businesses of all sizes, and offer cons
 - Machine Learning (ranging from model training through to business transformation)
 - Healthcare (EHR interoperability, HL7, FHIR, medical imaging systems such as PACS and VNA, DICOM)
 - HPC (batch computing, MPI, HPC clusters, scientific computing)
-- Life Sciences (sequencing, bioinformatics pipelines, research environments, HPC)
+- Life Sciences (sequencing, bioinformatics pipelines, research environments)
 - Analytics (including data lakes, IoT, and business intelligence)
 
 <!-- -->
