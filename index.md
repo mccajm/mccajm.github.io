@@ -9,7 +9,7 @@ I am interested in extracting information from healthcare data using computation
 
 I'm currently EMEA Lead - Healthcare and Life Sciences Startups at AWS and a Voting Member at HL7. Previously I was Data Science Technology Director at the [MGH & BWH Center for Clinical Data Science](https://ccds.io/) and a Visiting Scientist at the Wellcome Sanger Institute.
 
-Find me [**@adamajm**](https://twitter.com/adamajm).
+Find me [**@adamajm**](https://twitter.com/adamajm). I also provide [consulting services](/consulting/).
 
 <div class="divider"></div>
 
