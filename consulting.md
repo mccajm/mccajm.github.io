@@ -8,13 +8,17 @@ I have extensive experience working with businesses of all sizes, and offer cons
 - Networking (ranging from business internet connectivity and office networking through to datacentre connectivity)
 - VOIP (desk and mobile phone systems using Kamailio or Asterisk)
 - Email servers and web hosting
-<br />
+
+<!-- -->
+
 - Machine Learning (ranging from model training through to business transformation)
 - Healthcare (EHR interoperability, HL7, FHIR, medical imaging systems such as PACS and VNA, DICOM)
 - HPC (batch computing, MPI, HPC clusters, scientific computing)
 - Life Sciences (sequencing, bioinformatics pipelines, research environments, HPC)
 - Analytics (including data lakes, IoT, and business intelligence)
-<br />
+
+<!-- -->
+
 - Strategy and Research (business strategy, digital tranformation, whitepapers, and policy submissions)
 - Training
 
