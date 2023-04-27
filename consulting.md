@@ -3,7 +3,6 @@ layout: page
 title: Consulting
 ---
 
-<style>article {max-width: 800px;}</style>
 I have extensive experience working with businesses of all sizes, and offer consultancy in the following areas:
 - Linux Administration
 - Networking (ranging from business internet connectivity and office networking through to datacentre connectivity)
