@@ -17,6 +17,3 @@ I have extensive experience working with businesses of all sizes, and offer cons
 - Training
 
 If you would like to get in touch, please email me via myfirstname(at)myfullname.co.uk. Thank you.
-<div class="back">
-	<a href="/">Back</a>
-</div>
