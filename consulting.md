@@ -25,4 +25,4 @@ I have extensive experience working with businesses of all sizes, and offer cons
 - Strategy and Research (business strategy, digital tranformation, whitepapers, and policy submissions)
 - Training
 
-If you would like to get in touch, please email me via consulting(at)myfullname.co.uk. Thank you.
+If you would like to get in touch, please email me via consulting(at)thisdomain. Thank you.
