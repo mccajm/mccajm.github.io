@@ -4,7 +4,7 @@ title: Consulting
 ---
 
 I have extensive experience working with businesses of all sizes, and offer consultancy in the following areas:
-- Linux Administration
+- Linux Administration including Debian, Ubuntu, and Red Hat
 - Networking (ranging from business internet connectivity and office networking through to datacentre connectivity)
 - VOIP (desk and mobile phone systems using Kamailio or Asterisk)
 - Email servers and web hosting
