@@ -7,7 +7,7 @@ Hello.
 
 I am interested in extracting information from healthcare data using computational techniques such as machine learning and multiscale modeling, to improve patient care.
 
-I'm EMEA Tech Head - Healthcare AI Startups at AWS and a Voting Member at HL7. Previously I was Director of Data Science Technology at the [MGH & BWH Center for Clinical Data Science](https://ccds.io/) and a Visiting Scientist at the Wellcome Sanger Institute.
+I'm EMEA Head of Technology - ML Research and Healthcare Startups at AWS. I was previously Director of Data Science Technology at the [MGH & BWH Center for Clinical Data Science](https://ccds.io/) and a Visiting Scientist at the Wellcome Sanger Institute.
 
 Find me [**@adamajm**](https://twitter.com/adamajm).
 
